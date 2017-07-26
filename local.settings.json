@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Value": {
+    "esbypluralsighta7de_STORAGE": "DefaultEndpointsProtocol=https;AccountName=esbypluralsighta7de;AccountKey=8oTq6OGz/x5YOYQ9QQR29+FAb+K7smPulYQtbUvX4qoWFmQgIFZi5lfXn36bqMrR3Hiy94WIS4VOLPWXf1tyFg==",
+    "SendGridApiKey": "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",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "GitHub",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=esbypluralsighta7de;AccountKey=8oTq6OGz/x5YOYQ9QQR29+FAb+K7smPulYQtbUvX4qoWFmQgIFZi5lfXn36bqMrR3Hiy94WIS4VOLPWXf1tyFg==",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=esbypluralsighta7de;AccountKey=8oTq6OGz/x5YOYQ9QQR29+FAb+K7smPulYQtbUvX4qoWFmQgIFZi5lfXn36bqMrR3Hiy94WIS4VOLPWXf1tyFg==",
+    "WEBSITE_CONTENTSHARE": "esbypluralsightfuncsa7de",
+    "WEBSITE_SLOT_NAME": "Production",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=esbypluralsighta7de;AccountKey=8oTq6OGz/x5YOYQ9QQR29+FAb+K7smPulYQtbUvX4qoWFmQgIFZi5lfXn36bqMrR3Hiy94WIS4VOLPWXf1tyFg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_SITE_NAME": "esbyPluralSightFuncs"
+  }
+}

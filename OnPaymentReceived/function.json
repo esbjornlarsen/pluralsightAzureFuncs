@@ -1,0 +1,25 @@
+{
+  "bindings": [
+    {
+      "type": "httpTrigger",
+      "direction": "in",
+      "webHookType": "genericJson",
+      "name": "req",
+      "methods": [ "post" ],
+      "route": "newpurchase"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "queue",
+      "name": "outputQueueItem",
+      "queueName": "orders",
+      "connection": "esbypluralsighta7de_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

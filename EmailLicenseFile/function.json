@@ -1,0 +1,18 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "licenses/{filename}.lic",
+      "connection": "esbypluralsighta7de_STORAGE"
+    },
+    {
+      "type": "sendGrid",
+      "name": "message",
+      "apiKey": "SendGridApiKey",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

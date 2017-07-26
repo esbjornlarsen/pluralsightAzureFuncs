@@ -1,0 +1,19 @@
+{
+  "bindings": [
+    {
+      "name": "myQueueItem",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "orders",
+      "connection": "esbypluralsighta7de_STORAGE"
+    },
+    {
+      "type": "blob",
+      "name": "outputBlob",
+      "path": "licenses/{rand-guid}.lic",
+      "connection": "esbypluralsighta7de_STORAGE",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
